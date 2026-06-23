@@ -110,4 +110,4 @@ Key features:
 
 ## Quote I Like
 
-> Build slowly, but build seriously.
+> Rome wasn't built in a day but it was destroyed in one.
