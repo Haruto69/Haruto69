@@ -144,7 +144,6 @@ GitHub analytics and developer intelligence platform for repository exploration 
 </td>
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🌱 Self-Care Application
@@ -161,8 +160,6 @@ MERN-based adaptive self-care application with daily check-ins, goal-based perso
 [🔗 Repository](https://github.com/Haruto69/Self-care) · [🌐 Live Demo](https://solo-leveling-peak.vercel.app/)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎵 Velora Music
@@ -179,7 +176,9 @@ A Spotify-inspired responsive web music player with a full playback feature set 
 [🔗 Repository](https://github.com/Haruto69/velora-music)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🎓 Smart Attendance System
 A face-recognition attendance application that registers students, trains a recognition model, marks attendance in real time, and stores records through a desktop GUI.
