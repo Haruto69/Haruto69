@@ -181,15 +181,27 @@ A Spotify-inspired responsive web music player with a full playback feature set 
 </td>
 <td width="50%" valign="top">
 
-<br/>
+### 🎓 Smart Attendance System
+A face-recognition attendance application that registers students, trains a recognition model, marks attendance in real time, and stores records through a desktop GUI.
 
-<div align="center">
-<em>More projects on my <a href="https://github.com/Haruto69?tab=repositories">GitHub repositories page →</a></em>
-</div>
+**Highlights:**
+- Student registration with face capture
+- LBPH-based face-recognition training
+- Real-time attendance marking
+- SQLite-backed attendance records
+- GUI for managing and viewing data
+
+`Python` `OpenCV` `SQLite` `Pillow` `LBPH`
+
+[🔗 Repository](https://github.com/Haruto69/Smart-attendance)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<em>Explore more on my <a href="https://github.com/Haruto69?tab=repositories">GitHub repositories page →</a></em>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
 
