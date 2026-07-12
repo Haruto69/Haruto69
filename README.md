@@ -55,28 +55,17 @@ I enjoy combining software engineering with cybersecurity and applied AI — des
 - 🧠 Exploring Generative AI and LLM-powered developer tools
 - 🎯 Working toward a career as a full-stack software engineer with strength in security and AI
 
-```typescript
-class MukundV {
-  private name: string = "Mukund V";
-  private github: string = "Haruto69";
-  private role: string = "B.E. CSE (Cyber Security) Student";
-  private institution: string = "RNS Institute of Technology, Bengaluru";
+<br/>
 
-  private interests: string[] = [
-    "Full-Stack Development",
-    "Cybersecurity",
-    "Generative AI & LLMs",
-    "Cloud Technologies",
-    "IoT & Embedded Systems"
-  ];
-
-  private currentFocus: string = "Building secure, AI-augmented software systems";
-
-  public openToWork(): boolean {
-    return true; // Internships & Software Roles
-  }
-}
-```
+> 🧬 **Mukund V** — B.E. CSE (Cyber Security), RNS Institute of Technology, Bengaluru
+>
+> **GitHub:** [`Haruto69`](https://github.com/Haruto69)
+>
+> **Interests:** Full-Stack Development · Cybersecurity · Generative AI & LLMs · Cloud Technologies · IoT & Embedded Systems
+>
+> **Current Focus:** Building secure, AI-augmented software systems
+>
+> **Open to Work:** ✅ Internships & Software Roles
 
 <br clear="right"/>
 
