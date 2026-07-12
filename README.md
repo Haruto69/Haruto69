@@ -91,7 +91,6 @@ An advanced security analysis pipeline detecting vulnerabilities and misconfigur
 
 `Python` `Trivy` `Kubernetes` `Groq` `Llama 3.1` `RAG` `Flask`
 
-[🔗 Repository](REPOSITORY_LINK_HERE) · [🌐 Live Demo](LIVE_DEMO_LINK_HERE)
 
 </td>
 <td width="50%" valign="top">
@@ -108,7 +107,6 @@ GPS-independent navigation system for soldiers operating in GPS-denied environme
 
 `ESP32` `IMU` `Embedded C` `IoT` `Dead Reckoning`
 
-[🔗 Repository](REPOSITORY_LINK_HERE) · [🌐 Live Demo](LIVE_DEMO_LINK_HERE)
 
 </td>
 </tr>
@@ -125,7 +123,7 @@ AI-powered internship and job discovery platform with intelligent matching, resu
 
 `Next.js` `TypeScript` `Spring Boot` `PostgreSQL`
 
-[🔗 Repository](REPOSITORY_LINK_HERE) · [🌐 Live Demo](LIVE_DEMO_LINK_HERE)
+[🔗 Repository](https://github.com/Haruto69/arclume)
 
 </td>
 <td width="50%" valign="top">
@@ -141,7 +139,7 @@ GitHub analytics and developer intelligence platform for repository exploration 
 
 `React` `TypeScript` `Vite` `TanStack Query` `Recharts`
 
-[🔗 Repository](REPOSITORY_LINK_HERE) · [🌐 Live Demo](LIVE_DEMO_LINK_HERE)
+[🔗 Repository](https://github.com/Haruto69/reposcope) · [🌐 Live Demo](https://reposcope-alpha.vercel.app/)
 
 </td>
 </tr>
@@ -158,7 +156,7 @@ A distinctive interactive developer portfolio inspired by an operating-system da
 
 `React` `Vite` `Tailwind CSS` `Framer Motion`
 
-[🔗 Repository](REPOSITORY_LINK_HERE) · [🌐 Live Demo](LIVE_DEMO_LINK_HERE)
+[🔗 Repository](https://github.com/Haruto69/Mukund-OS) · [🌐 Live Demo](https://mukund-os.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -174,7 +172,7 @@ MERN-based adaptive self-care application with daily check-ins, goal-based perso
 
 `MongoDB` `Express` `React` `Node.js`
 
-[🔗 Repository](REPOSITORY_LINK_HERE) · [🌐 Live Demo](LIVE_DEMO_LINK_HERE)
+[🔗 Repository](https://github.com/Haruto69/Self-care) · [🌐 Live Demo](https://solo-leveling-peak.vercel.app/)
 
 </td>
 </tr>
@@ -192,7 +190,7 @@ A Spotify-inspired responsive web music player with a full playback feature set 
 
 `React` `TypeScript` `Vite` `Zustand` `Framer Motion`
 
-[🔗 Repository](REPOSITORY_LINK_HERE) · [🌐 Live Demo](LIVE_DEMO_LINK_HERE)
+[🔗 Repository](https://github.com/Haruto69/velora-music)
 
 </td>
 <td width="50%" valign="top">
@@ -258,35 +256,24 @@ A Spotify-inspired responsive web music player with a full playback feature set 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haruto69&show_icons=true&theme=radical&bg_color=0a0a1a&title_color=00d9ff&icon_color=b388ff&text_color=c9c9e0&border_color=6a1b9a&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruto69&layout=compact&theme=radical&bg_color=0a0a1a&title_color=00d9ff&text_color=c9c9e0&border_color=6a1b9a&hide_border=false"/>
-
-<br/>
-
-<!-- Streak stats: disable by removing this block if streak-stats.demolab.com is unreachable -->
-<img src="https://streak-stats.demolab.com/?user=Haruto69&theme=radical&background=0a0a1a&border=6a1b9a&stroke=00d9ff&ring=b388ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+<!-- GitHub streak -->
+<img src="https://streak-stats.demolab.com/?user=Haruto69&theme=radical&background=0a0a1a&border=6a1b9a&stroke=00d9ff&ring=b388ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Mukund's GitHub streak"/>
 
 <br/><br/>
 
-<!-- Activity graph: disable by removing this block if activity-graph.herokuapp.com is unreachable -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haruto69&theme=react-dark&bg_color=0a0a1a&color=00d9ff&line=b388ff&point=ffffff&area=true&hide_border=true"/>
+<!-- Contribution activity graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haruto69&theme=react-dark&bg_color=0a0a1a&color=00d9ff&line=b388ff&point=ffffff&area=true&hide_border=true" alt="Mukund's contribution activity graph"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<!-- Reliable repository/profile badges -->
+<a href="https://github.com/Haruto69?tab=repositories">
+  <img src="https://img.shields.io/badge/Public_Projects-View_Repositories-6a1b9a?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+</a>
+<a href="https://github.com/Haruto69?tab=followers">
+  <img src="https://img.shields.io/github/followers/Haruto69?label=GitHub%20Followers&style=for-the-badge&color=00d9ff&labelColor=0a0a1a" alt="GitHub followers"/>
+</a>
 
-<!-- Trophies: purely cosmetic, safe to remove entirely if it fails to load -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Haruto69&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers"/>
-</div>
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<!-- Generated automatically by .github/workflows/snake.yml — see below. Disable by removing this image and the workflow file. -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Haruto69/Haruto69/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
