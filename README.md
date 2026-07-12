@@ -18,7 +18,7 @@
 <!-- SOCIAL BUTTONS -->
 <a href="https://www.linkedin.com/in/mukund-v-b1b742175/"><img src="https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=0a0a1a" /></a>
 <a href="mailto:1rn23cy030.mukundv@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=0a0a1a" /></a>
-<a href="PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-0a0a1a?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0a0a1a" /></a>
+<a href="https://mukund-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0a1a?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0a0a1a" /></a>
 <a href="./Mukund_V_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0a0a1a?style=for-the-badge&logo=readdotcv&logoColor=00d9ff&labelColor=0a0a1a" /></a>
 <a href="https://github.com/Haruto69"><img src="https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=00d9ff&labelColor=0a0a1a" /></a>
 
@@ -144,21 +144,7 @@ GitHub analytics and developer intelligence platform for repository exploration 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
 
-### 🖥️ CyberDeck Resume OS
-A distinctive interactive developer portfolio inspired by an operating-system dashboard, featuring an animated dark-purple interface.
-
-**Highlights:**
-- OS-style dashboard UI/UX
-- Projects, skills, résumé, contact & theme modules
-- Smooth Framer Motion animations throughout
-
-`React` `Vite` `Tailwind CSS` `Framer Motion`
-
-[🔗 Repository](https://github.com/Haruto69/Mukund-OS) · [🌐 Live Demo](https://mukund-os.vercel.app/)
-
-</td>
 <td width="50%" valign="top">
 
 ### 🌱 Self-Care Application
