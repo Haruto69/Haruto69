@@ -16,10 +16,10 @@
 <br/><br/>
 
 <!-- SOCIAL BUTTONS -->
-<a href="LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=0a0a1a" /></a>
-<a href="mailto:EMAIL_ADDRESS_HERE"><img src="https://img.shields.io/badge/Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=0a0a1a" /></a>
+<a href="https://www.linkedin.com/in/mukund-v-b1b742175/"><img src="https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=0a0a1a" /></a>
+<a href="mailto:1rn23cy030.mukundv@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=0a0a1a" /></a>
 <a href="PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-0a0a1a?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0a0a1a" /></a>
-<a href="RESUME_URL_HERE"><img src="https://img.shields.io/badge/Resume-0a0a1a?style=for-the-badge&logo=readdotcv&logoColor=00d9ff&labelColor=0a0a1a" /></a>
+<a href="./Mukund_V_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0a0a1a?style=for-the-badge&logo=readdotcv&logoColor=00d9ff&labelColor=0a0a1a" /></a>
 <a href="https://github.com/Haruto69"><img src="https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=00d9ff&labelColor=0a0a1a" /></a>
 
 <br/><br/>
@@ -323,9 +323,9 @@ I'm actively looking for:
 
 **📬 Recruiters, founders, developers, and collaborators — let's talk.**
 
-<a href="mailto:EMAIL_ADDRESS_HERE"><img src="https://img.shields.io/badge/Contact_Me-6a1b9a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-00d9ff?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-<a href="RESUME_URL_HERE"><img src="https://img.shields.io/badge/View_Resume-0a0a1a?style=for-the-badge&logo=readdotcv&logoColor=00d9ff"/></a>
+<a href="mailto:1rn23cy030.mukundv@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-6a1b9a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mukund-v-b1b742175/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-00d9ff?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+<a href="./Mukund_V_Resume.pdf"><img src="https://img.shields.io/badge/View_Resume-0a0a1a?style=for-the-badge&logo=readdotcv&logoColor=00d9ff"/></a>
 
 </div>
 
