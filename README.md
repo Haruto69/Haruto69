@@ -48,7 +48,7 @@
 
 I'm **Mukund V**, a B.E. Computer Science and Engineering student specializing in **Cyber Security** at **RNS Institute of Technology, Bengaluru**. I build practical software systems that span full-stack development, AI-assisted security, developer tooling, and embedded applications.
 
-I enjoy combining software engineering with cybersecurity and applied AI — designing systems that are not just functional, but resilient and intelligently automated.
+I enjoy combining software engineering with cybersecurity and applied AI: designing systems that are not just functional, but resilient and intelligently automated.
 
 - 🔭 Actively building full-stack, AI, and IoT-driven projects
 - 🌐 Interested in cloud-native and DevSecOps practices
@@ -57,7 +57,7 @@ I enjoy combining software engineering with cybersecurity and applied AI — des
 
 <br/>
 
-> 🧬 **Mukund V** — B.E. CSE (Cyber Security), RNS Institute of Technology, Bengaluru
+> 🧬 **Mukund V**: B.E. CSE (Cyber Security), RNS Institute of Technology, Bengaluru
 >
 > **GitHub:** [`Haruto69`](https://github.com/Haruto69)
 >
@@ -78,7 +78,7 @@ I enjoy combining software engineering with cybersecurity and applied AI — des
 <td width="50%" valign="top">
 
 ### 🛡️ Nokia NBUC GenAI Security Pipeline
-🏆 **1st Place — Best Implemented Industry Project, Nokia University Day 2025**
+🏆 **1st Place: Best Implemented Industry Project, Nokia University Day 2025**
 
 An advanced security analysis pipeline detecting vulnerabilities and misconfigurations in containerized applications and Kubernetes deployments. Combines multi-tool scanning with Groq-powered Llama 3.1 for AI-driven remediation guidance and a RAG chatbot for interactive security queries.
 
@@ -96,7 +96,7 @@ An advanced security analysis pipeline detecting vulnerabilities and misconfigur
 <td width="50%" valign="top">
 
 ### 🧭 DishaRakshak
-GPS-independent navigation system for soldiers operating in GPS-denied environments — using foot-mounted IMUs, ESP32 communication, and a belt-mounted processing hub.
+GPS-independent navigation system for soldiers operating in GPS-denied environments: using foot-mounted IMUs, ESP32 communication, and a belt-mounted processing hub.
 
 **Highlights:**
 - Foot-mounted IMU modules + ESP32 comms
@@ -294,7 +294,7 @@ mukund@dev:~$ _
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place — Best Implemented Industry Project**, Nokia University Day 2025
+- 🥇 **1st Place: Best Implemented Industry Project**, Nokia University Day 2025
 - 🛠️ Built and deployed multiple full-stack applications across MERN and Spring Boot stacks
 - 🔐 Developed AI-powered security and developer tooling (vulnerability scanning + RAG-based remediation)
 - 📡 Worked on IoT and GPS-independent navigation research (DishaRakshak)
@@ -318,7 +318,7 @@ I'm actively looking for:
 | 🔐 Cybersecurity-Related Software Roles | DevSecOps, secure development |
 | 🎓 Entry-Level Software Engineering | New-grad / early-career positions |
 
-**📬 Recruiters, founders, developers, and collaborators — let's talk.**
+**📬 Recruiters, founders, developers, and collaborators: let's talk.**
 
 <a href="mailto:1rn23cy030.mukundv@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-6a1b9a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mukund-v-b1b742175/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-00d9ff?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
@@ -332,7 +332,7 @@ I'm actively looking for:
 <summary><b>💬 A note on how I build</b></summary>
 <br/>
 
-I like software that does one thing reliably rather than many things poorly. Whether it's a Kubernetes security scanner or a music player, I aim for clean architecture, sensible defaults, and interfaces that don't get in the way. Security and AI aren't separate interests for me — I like using AI to make secure development faster, and using security thinking to make AI systems more trustworthy.
+I like software that does one thing reliably rather than many things poorly. Whether it's a Kubernetes security scanner or a music player, I aim for clean architecture, sensible defaults, and interfaces that don't get in the way. Security and AI aren't separate interests for me: I like using AI to make secure development faster, and using security thinking to make AI systems more trustworthy.
 
 </details>
 
@@ -345,5 +345,5 @@ I like software that does one thing reliably rather than many things poorly. Whe
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:6a1b9a,100:0a0a1a&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<sub>⚡ Thanks for visiting my profile — feel free to explore my <a href="https://github.com/Haruto69?tab=repositories">repositories</a> or reach out!</sub>
+<sub>⚡ Thanks for visiting my profile: feel free to explore my <a href="https://github.com/Haruto69?tab=repositories">repositories</a> or reach out!</sub>
 </div>
