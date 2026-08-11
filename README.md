@@ -276,7 +276,6 @@ I'm actively looking for:
 | Role Type | Focus |
 |---|---|
 | 💻 Software Development Internships | Full-stack, backend, or frontend |
-| 🌐 Full-Stack Development Roles | React / Next.js / Node / Spring Boot |
 | 🤖 Generative AI & LLM Internships | RAG, LLM tooling, AI-integrated apps |
 | 🔐 Cybersecurity-Related Software Roles | DevSecOps, secure development |
 | 🎓 Entry-Level Software Engineering | New-grad / early-career positions |
