@@ -204,69 +204,31 @@ A face-recognition attendance application that registers students, trains a reco
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
 
-## 🧰 Technical Skills
+## 🧩 Core Stack Snapshot
 
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,py,c,mysql,html,css&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" />
-<img src="https://img.shields.io/badge/Framer_Motion-0a0a1a?style=for-the-badge&logo=framer&logoColor=00d9ff" />
-<img src="https://img.shields.io/badge/Zustand-6a1b9a?style=for-the-badge&logoColor=white" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask&theme=dark" />
-<img src="https://img.shields.io/badge/REST_APIs-0a0a1a?style=for-the-badge&logo=fastapi&logoColor=00d9ff" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
-
-**AI & Security**
-
-<img src="https://img.shields.io/badge/Generative_AI-6a1b9a?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-6a1b9a?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-6a1b9a?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-00d9ff?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" />
-<img src="https://img.shields.io/badge/Kyverno-0a0a1a?style=for-the-badge&logoColor=00d9ff" />
-<img src="https://img.shields.io/badge/Kubescape-0a0a1a?style=for-the-badge&logoColor=00d9ff" />
-<img src="https://img.shields.io/badge/kube--score-0a0a1a?style=for-the-badge&logoColor=00d9ff" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,vercel,gcp,aws,azure&theme=dark" />
-<img src="https://img.shields.io/badge/Render-0a0a1a?style=for-the-badge&logo=render&logoColor=00d9ff" />
-
-</div>
+| Area | Technologies |
+|---|---|
+| **Languages** | Java, Python, JavaScript, TypeScript, SQL, HTML, CSS, C, C++ |
+| **Frontend** | React, Next.js, Vite, Tailwind CSS, Framer Motion, Zustand |
+| **Backend** | Node.js, Express.js, Spring Boot, Flask, REST APIs |
+| **Databases** | PostgreSQL, MongoDB Atlas, SQLite |
+| **AI & Security** | LLM APIs, RAG fundamentals, Trivy, Kubescape, kube-score, Kyverno |
+| **Tools & Platforms** | Git, GitHub, Linux, Docker, Postman, Vercel, Render, AWS, GCP, Azure |
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
-<!-- Each card below is independent. If one external service is down, remove only that specific <img> block. -->
-
 <div align="center">
 
-<!-- GitHub stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haruto69&show_icons=true&theme=tokyonight&bg_color=0a0a1a&title_color=00d9ff&icon_color=b388ff&text_color=c9c9e0&border_color=6a1b9a&hide_border=false&include_all_commits=true&count_private=true" alt="Mukund's GitHub stats"/>
-
-<!-- Language usage across public repositories -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruto69&layout=compact&theme=tokyonight&bg_color=0a0a1a&title_color=00d9ff&text_color=c9c9e0&border_color=6a1b9a&hide_border=false&langs_count=8" alt="Mukund's most used languages"/>
+<img src="./assets/language-stats.svg" alt="Language footprint across Mukund's public projects" width="92%"/>
 
 <br/><br/>
 
-<!-- Contribution activity graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haruto69&theme=react-dark&bg_color=0a0a1a&color=00d9ff&line=b388ff&point=ffffff&area=true&hide_border=true" alt="Mukund's contribution activity graph"/>
 
 <br/><br/>
 
-<!-- Reliable repository/profile badges -->
 <a href="https://github.com/Haruto69?tab=repositories">
   <img src="https://img.shields.io/badge/Public_Projects-View_Repositories-6a1b9a?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
 </a>
