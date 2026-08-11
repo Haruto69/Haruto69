@@ -221,20 +221,18 @@ A face-recognition attendance application that registers students, trains a reco
 
 <div align="center">
 
-<img src="./assets/language-stats.svg" alt="Language footprint" width="92%"/>
+<a href="https://github.com/Haruto69">
+  <img height="190" align="center" src="https://github-readme-stats-eta-flame.vercel.app/api?username=Haruto69&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&icon_color=b388ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" alt="Mukund's GitHub stats"/>
+</a>
+<a href="https://github.com/Haruto69">
+  <img height="190" align="center" src="https://github-readme-stats-eta-flame.vercel.app/api/top-langs/?username=Haruto69&layout=compact&langs_count=8&card_width=340&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d&size_weight=0.5&count_weight=0.5" alt="Mukund's top languages"/>
+</a>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haruto69&theme=react-dark&bg_color=0a0a1a&color=00d9ff&line=b388ff&point=ffffff&area=true&hide_border=true" alt="Mukund's contribution activity graph"/>
-
-<br/><br/>
-
-<a href="https://github.com/Haruto69?tab=repositories">
-  <img src="https://img.shields.io/badge/Public_Projects-View_Repositories-6a1b9a?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
-</a>
-<a href="https://github.com/Haruto69?tab=followers">
-  <img src="https://img.shields.io/github/followers/Haruto69?label=GitHub%20Followers&style=for-the-badge&color=00d9ff&labelColor=0a0a1a" alt="GitHub followers"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Haruto69&label=Profile%20Views&color=6a1b9a&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Haruto69?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers"/>
 
 </div>
 
