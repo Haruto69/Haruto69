@@ -249,12 +249,15 @@ A face-recognition attendance application that registers students, trains a reco
 
 ## 📊 GitHub Analytics
 
-<!-- To disable any widget below: delete the corresponding <img> block. Each widget is an independent external service. -->
+<!-- Each card below is independent. If one external service is down, remove only that specific <img> block. -->
 
 <div align="center">
 
-<!-- GitHub streak -->
-<img src="https://streak-stats.demolab.com/?user=Haruto69&theme=radical&background=0a0a1a&border=6a1b9a&stroke=00d9ff&ring=b388ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Mukund's GitHub streak"/>
+<!-- GitHub stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haruto69&show_icons=true&theme=tokyonight&bg_color=0a0a1a&title_color=00d9ff&icon_color=b388ff&text_color=c9c9e0&border_color=6a1b9a&hide_border=false&include_all_commits=true&count_private=true" alt="Mukund's GitHub stats"/>
+
+<!-- Language usage across public repositories -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruto69&layout=compact&theme=tokyonight&bg_color=0a0a1a&title_color=00d9ff&text_color=c9c9e0&border_color=6a1b9a&hide_border=false&langs_count=8" alt="Mukund's most used languages"/>
 
 <br/><br/>
 
