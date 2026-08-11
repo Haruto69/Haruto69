@@ -1,17 +1,17 @@
-<svg width="900" height="420" viewBox="0 0 900 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-<title id="title">Language footprint</title>
-<desc id="desc">Primary language footprint across Mukund V's public project work.</desc>
+<svg width="940" height="560" viewBox="0 0 940 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Language Footprint</title>
+<desc id="desc">A visual summary of the main languages used across Mukund V's project portfolio.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="900" y2="420" gradientUnits="userSpaceOnUse">
+  <linearGradient id="cardBg" x1="0" y1="0" x2="940" y2="560" gradientUnits="userSpaceOnUse">
     <stop stop-color="#0a0a1a"/>
-    <stop offset="0.52" stop-color="#15102b"/>
-    <stop offset="1" stop-color="#071827"/>
+    <stop offset="0.52" stop-color="#111327"/>
+    <stop offset="1" stop-color="#061827"/>
   </linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+  <linearGradient id="accent" x1="74" y1="64" x2="866" y2="64" gradientUnits="userSpaceOnUse">
     <stop stop-color="#6a1b9a"/>
     <stop offset="1" stop-color="#00d9ff"/>
   </linearGradient>
-  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+  <filter id="softGlow" x="-20%" y="-200%" width="140%" height="500%">
     <feGaussianBlur stdDeviation="3" result="blur"/>
     <feMerge>
       <feMergeNode in="blur"/>
@@ -19,48 +19,52 @@
     </feMerge>
   </filter>
 </defs>
-<rect width="900" height="420" rx="22" fill="url(#bg)"/>
-<rect x="1" y="1" width="898" height="418" rx="21" stroke="#6a1b9a" stroke-opacity="0.75"/>
-<rect x="34" y="34" width="832" height="4" rx="2" fill="url(#accent)" filter="url(#glow)"/>
-<text x="58" y="76" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Language Footprint</text>
-<text x="58" y="101" fill="#9befff" font-family="Segoe UI, Arial, sans-serif" font-size="15">Primary languages across my public project work</text>
-<text x="58" y="110" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">TypeScript</text>
-<text x="762" y="110" fill="#c9c9e0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">34%</text>
-<rect x="58" y="118" width="680" height="28" rx="14" fill="#141526" stroke="#2f3150"/>
-<rect x="58" y="118" width="231" height="28" rx="14" fill="#3178c6">
-  <animate attributeName="width" from="0" to="231" dur="1.2s" fill="freeze"/>
+
+<rect x="1" y="1" width="938" height="558" rx="26" fill="url(#cardBg)" stroke="#6a1b9a" stroke-opacity="0.8"/>
+<rect x="74" y="64" width="792" height="5" rx="2.5" fill="url(#accent)" filter="url(#softGlow)"/>
+
+<text x="74" y="118" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Language Footprint</text>
+<text x="74" y="145" fill="#9befff" font-family="Segoe UI, Arial, sans-serif" font-size="16">Main programming languages represented across my project portfolio</text>
+
+<text x="74" y="175" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">TypeScript</text>
+<text x="830" y="175" fill="#d9e6ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="end">34%</text>
+<rect x="74" y="186" width="710" height="24" rx="12" fill="#151629" stroke="#303453"/>
+<rect x="74" y="186" width="603" height="24" rx="12" fill="#3178c6">
+  <animate attributeName="width" from="0" to="603" dur="0.9s" fill="freeze"/>
 </rect>
-<text x="58" y="172" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">JavaScript</text>
-<text x="762" y="172" fill="#c9c9e0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">24%</text>
-<rect x="58" y="180" width="680" height="28" rx="14" fill="#141526" stroke="#2f3150"/>
-<rect x="58" y="180" width="163" height="28" rx="14" fill="#f7df1e">
-  <animate attributeName="width" from="0" to="163" dur="1.2s" fill="freeze"/>
+
+<text x="74" y="235" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">JavaScript</text>
+<text x="830" y="235" fill="#d9e6ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="end">24%</text>
+<rect x="74" y="246" width="710" height="24" rx="12" fill="#151629" stroke="#303453"/>
+<rect x="74" y="246" width="426" height="24" rx="12" fill="#f7df1e">
+  <animate attributeName="width" from="0" to="426" dur="0.9s" fill="freeze"/>
 </rect>
-<text x="58" y="234" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Python</text>
-<text x="762" y="234" fill="#c9c9e0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">18%</text>
-<rect x="58" y="242" width="680" height="28" rx="14" fill="#141526" stroke="#2f3150"/>
-<rect x="58" y="242" width="122" height="28" rx="14" fill="#3776ab">
-  <animate attributeName="width" from="0" to="122" dur="1.2s" fill="freeze"/>
+
+<text x="74" y="295" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Python</text>
+<text x="830" y="295" fill="#d9e6ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="end">18%</text>
+<rect x="74" y="306" width="710" height="24" rx="12" fill="#151629" stroke="#303453"/>
+<rect x="74" y="306" width="319" height="24" rx="12" fill="#3776ab">
+  <animate attributeName="width" from="0" to="319" dur="0.9s" fill="freeze"/>
 </rect>
-<text x="58" y="296" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Java</text>
-<text x="762" y="296" fill="#c9c9e0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">11%</text>
-<rect x="58" y="304" width="680" height="28" rx="14" fill="#141526" stroke="#2f3150"/>
-<rect x="58" y="304" width="74" height="28" rx="14" fill="#f89820">
-  <animate attributeName="width" from="0" to="74" dur="1.2s" fill="freeze"/>
+
+<text x="74" y="355" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Java</text>
+<text x="830" y="355" fill="#d9e6ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="end">11%</text>
+<rect x="74" y="366" width="710" height="24" rx="12" fill="#151629" stroke="#303453"/>
+<rect x="74" y="366" width="195" height="24" rx="12" fill="#f89820">
+  <animate attributeName="width" from="0" to="195" dur="0.9s" fill="freeze"/>
 </rect>
-<text x="58" y="358" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">HTML/CSS</text>
-<text x="762" y="358" fill="#c9c9e0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">8%</text>
-<rect x="58" y="366" width="680" height="28" rx="14" fill="#141526" stroke="#2f3150"/>
-<rect x="58" y="366" width="54" height="28" rx="14" fill="#e34c26">
-  <animate attributeName="width" from="0" to="54" dur="1.2s" fill="freeze"/>
+
+<text x="74" y="415" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">HTML/CSS</text>
+<text x="830" y="415" fill="#d9e6ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="end">8%</text>
+<rect x="74" y="426" width="710" height="24" rx="12" fill="#151629" stroke="#303453"/>
+<rect x="74" y="426" width="142" height="24" rx="12" fill="#e34c26">
+  <animate attributeName="width" from="0" to="142" dur="0.9s" fill="freeze"/>
 </rect>
-<text x="58" y="420" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">C/C++</text>
-<text x="762" y="420" fill="#c9c9e0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">5%</text>
-<rect x="58" y="428" width="680" height="28" rx="14" fill="#141526" stroke="#2f3150"/>
-<rect x="58" y="428" width="34" height="28" rx="14" fill="#00599c">
-  <animate attributeName="width" from="0" to="34" dur="1.2s" fill="freeze"/>
+
+<text x="74" y="475" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">C/C++</text>
+<text x="830" y="475" fill="#d9e6ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="end">5%</text>
+<rect x="74" y="486" width="710" height="24" rx="12" fill="#151629" stroke="#303453"/>
+<rect x="74" y="486" width="88" height="24" rx="12" fill="#00599c">
+  <animate attributeName="width" from="0" to="88" dur="0.9s" fill="freeze"/>
 </rect>
-<text x="58" y="386" fill="#7ddfff" font-family="Segoe UI, Arial, sans-serif" font-size="13">
-This card is stored inside the repo, so it does not break when external GitHub-stat widgets rate-limit or fail.
-</text>
 </svg>

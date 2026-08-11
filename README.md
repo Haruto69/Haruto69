@@ -221,7 +221,7 @@ A face-recognition attendance application that registers students, trains a reco
 
 <div align="center">
 
-<img src="./assets/language-stats.svg" alt="Language footprint across Mukund's public projects" width="92%"/>
+<img src="./assets/language-stats.svg" alt="Language footprint" width="92%"/>
 
 <br/><br/>
 
