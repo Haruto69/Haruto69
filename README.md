@@ -1,311 +1,142 @@
 <div align="center">
+  <img src="./assets/mukund-hud.svg" width="100%" alt="Animated engineering HUD introducing Mukund V" />
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:6a1b9a,100:00d9ff&height=220&section=header&text=Mukund%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Student%20%7C%20GenAI%20Builder&descAlignY=58&descSize=18" width="100%"/>
+  <br />
 
-<!-- ANIMATED TYPING -->
-<a href="https://github.com/Haruto69">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Cybersecurity+Student+%F0%9F%94%90;Generative+AI+Builder+%F0%9F%A4%96;Java+%26+DSA+Learner+%E2%98%95;Cloud+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- OPEN TO WORK BANNER -->
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20AVAILABLE%20FOR-Internships%20%26%20Software%20Roles-6a1b9a?style=for-the-badge&labelColor=0a0a1a&color=00d9ff" alt="Open to Work"/>
-
-<br/><br/>
-
-<!-- SOCIAL BUTTONS -->
-<a href="https://www.linkedin.com/in/mukund-v-b1b742175/"><img src="https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=00d9ff&labelColor=0a0a1a" /></a>
-<a href="mailto:1rn23cy030.mukundv@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=00d9ff&labelColor=0a0a1a" /></a>
-<a href="https://mukund-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0a1a?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0a0a1a" /></a>
-<a href="./Mukund_V_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0a0a1a?style=for-the-badge&logo=readdotcv&logoColor=00d9ff&labelColor=0a0a1a" /></a>
-<a href="https://github.com/Haruto69"><img src="https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=00d9ff&labelColor=0a0a1a" /></a>
-
-<br/><br/>
-
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=Haruto69&label=Profile%20Views&color=6a1b9a&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Haruto69?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0a0a1a" alt="Followers"/>
-
+  <a href="https://www.linkedin.com/in/mukund-v-b1b742175/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:eng22mukund@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://mukund-os.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="./Mukund_V_Resume.pdf">Resume</a>
 </div>
 
-<br/>
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
-
-<!-- ANIMATED DEV ILLUSTRATION -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/coding.gif" width="450" alt="Coding animation"/>
-</div>
-
-<br/>
-
-## 🧬 About Me
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="dev icon"/>
-
-I'm **Mukund V**, a B.E. Computer Science and Engineering student specializing in **Cyber Security** at **RNS Institute of Technology, Bengaluru**. I build practical software systems that span full-stack development, AI-assisted security, developer tooling, and embedded applications.
-
-I enjoy combining software engineering with cybersecurity and applied AI: designing systems that are not just functional, but resilient and intelligently automated.
-
-- 🔭 Actively building full-stack, AI, and IoT-driven projects
-- 🌐 Interested in cloud-native and DevSecOps practices
-- 🧠 Exploring Generative AI and LLM-powered developer tools
-- 🎯 Working toward a career as a full-stack software engineer with strength in security and AI
-
-<br/>
-
-> 🧬 **Mukund V**: B.E. CSE (Cyber Security), RNS Institute of Technology, Bengaluru
->
-> **GitHub:** [`Haruto69`](https://github.com/Haruto69)
->
-> **Interests:** Full-Stack Development · Cybersecurity · Generative AI & LLMs · Cloud Technologies · IoT & Embedded Systems
->
-> **Current Focus:** Building secure, AI-augmented software systems
->
-> **Open to Work:** ✅ Internships & Software Roles
-
-<br clear="right"/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Nokia NBUC GenAI Security Pipeline
-🏆 **1st Place: Best Implemented Industry Project, Nokia University Day 2025**
-
-An advanced security analysis pipeline detecting vulnerabilities and misconfigurations in containerized applications and Kubernetes deployments. Combines multi-tool scanning with Groq-powered Llama 3.1 for AI-driven remediation guidance and a RAG chatbot for interactive security queries.
-
-**Highlights:**
-- Trivy for Docker image vulnerability scanning
-- Kyverno, Kubescape & kube-score for K8s security analysis
-- Groq / Llama 3.1 remediation recommendations
-- Retrieval-Augmented Generation chatbot
-- CLI + Flask web interface
-
-`Python` `Trivy` `Kubernetes` `Groq` `Llama 3.1` `RAG` `Flask`
-
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 DishaRakshak
-GPS-independent navigation system for soldiers operating in GPS-denied environments: using foot-mounted IMUs, ESP32 communication, and a belt-mounted processing hub.
-
-**Highlights:**
-- Foot-mounted IMU modules + ESP32 comms
-- Belt-mounted processing hub
-- Dead reckoning & Zero Velocity Updates (ZUPT)
-- Real-time path visualization
-- Full IoT + embedded-system integration
-
-`ESP32` `IMU` `Embedded C` `IoT` `Dead Reckoning`
-
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Arclume
-AI-powered internship and job discovery platform with intelligent matching, resume analysis, and application tracking.
-
-**Highlights:**
-- AI-powered job matching
-- Resume analysis & skill-gap detection
-- Application tracking dashboard
-
-`Next.js` `TypeScript` `Spring Boot` `PostgreSQL`
-
-[🔗 Repository](https://github.com/Haruto69/arclume)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 RepoScope
-GitHub analytics and developer intelligence platform for repository exploration and developer comparisons, enhanced with AI-generated summaries.
-
-**Highlights:**
-- Repository analytics & exploration
-- Developer comparison tools
-- AI-generated developer summaries & repo explanations
-- AI-generated resume bullets
-
-`React` `TypeScript` `Vite` `TanStack Query` `Recharts`
-
-[🔗 Repository](https://github.com/Haruto69/reposcope) · [🌐 Live Demo](https://reposcope-alpha.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 Self-Care Application
-MERN-based adaptive self-care application with daily check-ins, goal-based personalization, and gamified rewards.
-
-**Highlights:**
-- Daily tasks & check-ins
-- Goal-based personalization
-- Points, achievements & rewards
-- AI-assisted task personalization
-
-`MongoDB` `Express` `React` `Node.js`
-
-[🔗 Repository](https://github.com/Haruto69/Self-care) · [🌐 Live Demo](https://solo-leveling-peak.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎵 Velora Music
-A Spotify-inspired responsive web music player with a full playback feature set and smooth animations.
-
-**Highlights:**
-- Queue, shuffle & repeat
-- Playlists & synced lyrics
-- Mobile-responsive design
-- Built on the HTML Audio API
-
-`React` `TypeScript` `Vite` `Zustand` `Framer Motion`
-
-[🔗 Repository](https://github.com/Haruto69/velora-music)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🎓 Smart Attendance System
-A face-recognition attendance application that registers students, trains a recognition model, marks attendance in real time, and stores records through a desktop GUI.
-
-**Highlights:**
-- Student registration with face capture
-- LBPH-based face-recognition training
-- Real-time attendance marking
-- SQLite-backed attendance records
-- GUI for managing and viewing data
-
-`Python` `OpenCV` `SQLite` `Pillow` `LBPH`
-
-[🔗 Repository](https://github.com/Haruto69/Smart-attendance)
-
-</td>
-</tr>
-</table>
+## 01 // Contribution Matrix
 
 <div align="center">
-<em>Explore more on my <a href="https://github.com/Haruto69?tab=repositories">GitHub repositories page →</a></em>
+  <a href="https://github.com/Haruto69">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Haruto69 GitHub contribution history rendered as a 3D skyline" />
+  </a>
+  <sub>Generated daily from real GitHub contribution data by GitHub Actions.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
+## 02 // Developer Telemetry
 
-## 🧩 Core Stack Snapshot
+<div align="center">
+  <a href="https://github.com/Haruto69">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haruto69&amp;theme=github_dark&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=b388ff&amp;chart_color=6a1b9a&amp;animation=load" alt="Live GitHub statistics for Haruto69" />
+  </a>
+  <a href="https://github.com/Haruto69?tab=repositories">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haruto69&amp;theme=github_dark&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=b388ff&amp;chart_color=6a1b9a&amp;animation=load" alt="Top repository languages for Haruto69 based on GitHub data" />
+  </a>
+  <br />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="98%" src="https://streak-stats.demolab.com?user=Haruto69&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=00D9FF&amp;fire=B388FF&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=00D9FF&amp;sideLabels=B388FF&amp;dates=8B949E&amp;card_width=1000" alt="GitHub contribution streak for Haruto69" />
+  </a>
+</div>
 
-| Area | Technologies |
+<sub>Telemetry is sourced from GitHub-backed public data. Language cards describe repository composition, not proficiency.</sub>
+
+## 03 // Activity Signal
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haruto69&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=00d9ff&amp;point=b388ff&amp;area_color=6a1b9a&amp;area=true&amp;hide_border=true&amp;custom_title=ACTIVITY%20SIGNAL%20%2F%2F%20LAST%2031%20DAYS" width="100%" alt="Haruto69 GitHub activity graph for the last 31 days" />
+  </a>
+</div>
+
+## 04 // About
+
+I'm **Mukund V**, a Computer Science and Engineering undergraduate specializing in **Cyber Security** at **RNS Institute of Technology, Bengaluru**. I build full-stack and backend systems across Spring Boot, React, and Node.js, with an emphasis on secure engineering, DevSecOps automation, generative AI and RAG integrations, cloud/container tooling, and IoT systems.
+
+I like software that does one thing reliably: clear architecture, sensible defaults, and security built into the development loop.
+
+<div align="center">
+  <img src="./assets/system-orbit.svg" width="100%" alt="Animated architecture diagram connecting Mukund with backend, security, AI, cloud, DevOps, and IoT" />
+</div>
+
+## 05 // Technology Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,ts,js,react,nextjs,spring,nodejs,postgres,mongodb,docker,kubernetes,git,linux,aws,gcp&amp;perline=8&amp;theme=dark" alt="Technology icons for Mukund's engineering stack" />
+</div>
+
+| Domain | Verified toolkit |
 |---|---|
 | **Languages** | Java, Python, JavaScript, TypeScript, SQL, HTML, CSS, C, C++ |
 | **Frontend** | React, Next.js, Vite, Tailwind CSS, Framer Motion, Zustand |
-| **Backend** | Node.js, Express.js, Spring Boot, Flask, REST APIs |
-| **Databases** | PostgreSQL, MongoDB Atlas, SQLite |
-| **AI & Security** | LLM APIs, RAG fundamentals, Trivy, Kubescape, kube-score, Kyverno |
-| **Tools & Platforms** | Git, GitHub, Linux, Docker, Postman, Vercel, Render, AWS, GCP, Azure |
+| **Backend** | Spring Boot, Node.js, Express, Flask, REST APIs |
+| **Data** | PostgreSQL, MongoDB Atlas, SQLite |
+| **AI & Security** | LLM APIs, prompt engineering, RAG fundamentals, Trivy, Kubescape, kube-score, Kyverno |
+| **Cloud & Tooling** | Docker, Kubernetes, Git, GitHub, Linux, Postman, AWS, GCP, Azure, Vercel, Render |
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
+## 06 // Featured Systems
 
-## 📊 GitHub Analytics
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Nokia NBUC GenAI Security Pipeline</h3>
+      <p>DevSecOps pipeline for scanning Docker images and Kubernetes manifests, producing SBOMs and AI-assisted vulnerability remediation through CLI and Flask interfaces.</p>
+      <p><code>Python</code> <code>Flask</code> <code>Trivy</code> <code>Kubernetes</code> <code>RAG</code> <code>LLM</code></p>
+      <sub>Best Implemented Industry Project · Nokia University Day 2025</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>DishaRakshak</h3>
+      <p>GPS-independent navigation concept for GPS-denied environments using foot-mounted IMUs, ESP32 communication, dead reckoning, and zero-velocity updates.</p>
+      <p><code>ESP32</code> <code>IMU</code> <code>Embedded C</code> <code>IoT</code> <code>ZUPT</code></p>
+      <sub>Embedded navigation and real-time path visualization</sub>
+    </td>
+  </tr>
+</table>
+
+| System | Purpose | Stack | Links |
+|---|---|---|---|
+| **Arclume** | Foundation-stage career platform with a modular Spring Boot backend and Next.js frontend; roadmap includes explainable matching and resume analysis. | Next.js · TypeScript · Java · Spring Boot · Docker | [Repository](https://github.com/Haruto69/arclume) |
+| **RepoScope** | Developer analytics platform with repository insights, comparisons, visualizations, and AI-generated technical summaries. | React · TypeScript · Vite · GitHub API · Recharts | [Repository](https://github.com/Haruto69/reposcope) · [Live](https://reposcope-alpha.vercel.app/) |
+| **Self-Care Application** | MERN application for adaptive routines, daily check-ins, task tracking, rewards, and AI-assisted personalization. | MongoDB · Express · React · Node.js | [Repository](https://github.com/Haruto69/Self-care) · [Live](https://solo-leveling-peak.vercel.app/) |
+| **Velora Music** | Responsive music player with playlists, queue controls, synced lyrics, and HTML Audio API playback. | React · TypeScript · Vite · Zustand · Framer Motion | [Repository](https://github.com/Haruto69/velora-music) |
+| **Smart Attendance System** | Desktop face-recognition workflow for student registration, model training, attendance capture, and local records. | Python · OpenCV · SQLite · Pillow · LBPH | [Repository](https://github.com/Haruto69/Smart-attendance) |
 
 <div align="center">
-
-<a href="https://github.com/Haruto69">
-  <img height="190" align="center" src="https://github-readme-stats-eta-flame.vercel.app/api?username=Haruto69&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&icon_color=b388ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true" alt="Mukund's GitHub stats"/>
-</a>
-<a href="https://github.com/Haruto69">
-  <img height="190" align="center" src="https://github-readme-stats-eta-flame.vercel.app/api/top-langs/?username=Haruto69&layout=compact&langs_count=8&card_width=340&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d&size_weight=0.5&count_weight=0.5" alt="Mukund's top languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Haruto69&label=Profile%20Views&color=6a1b9a&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Haruto69?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers"/>
-
+  <a href="https://github.com/Haruto69?tab=repositories">Explore all repositories →</a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
+## 07 // Highlights
 
-## 🧑‍💻 Currently Learning
+- Won **Best Implemented Industry Project** at Nokia University Day 2025 for an AI-assisted product-security and vulnerability-remediation pipeline.
+- Qualified for and participated in the **CySecK Capture the Flag finals** at the Indian Institute of Science, Bengaluru.
+- Earned the **Google Cybersecurity Professional Certificate** in 2026.
 
-```bash
-mukund@dev:~$ cat currently_learning.txt
+## 08 // Current Signal
 
-[■■■■■■■□□□] Java & Data Structures / Algorithms
-[■■■■■■□□□□] Full-Stack Development (MERN / Spring Boot)
-[■■■■■□□□□□] Spring Boot & Backend Architecture
-[■■■■□□□□□□] Cloud Technologies (AWS / GCP / Azure)
-[■■■■■■□□□□] AI Integration & LLM Tooling
-[■■■■■□□□□□] Secure Software Development Practices
-
-mukund@dev:~$ _
+```text
+CURRENT_FOCUS
+├── Java + Spring Boot
+├── Backend architecture
+├── Secure software engineering
+├── DevSecOps
+└── LLM / RAG integrations
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
+## 09 // Open to Opportunities
 
-## 🏆 Achievements
-
-- 🥇 **1st Place: Best Implemented Industry Project**, Nokia University Day 2025
-- 🛠️ Built and deployed multiple full-stack applications across MERN and Spring Boot stacks
-- 🔐 Developed AI-powered security and developer tooling (vulnerability scanning + RAG-based remediation)
-- 📡 Worked on IoT and GPS-independent navigation research (DishaRakshak)
-- ⚙️ Hands-on experience with React, MERN, Spring Boot, PostgreSQL, and Generative AI systems
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
-
-## 🟢 Open to Opportunities
+Open to internships and early-career work across **backend/full-stack engineering**, **GenAI and LLM systems**, and **security-focused software or DevSecOps**.
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00d9ff?style=for-the-badge&labelColor=0a0a1a" />
-
-I'm actively looking for:
-
-| Role Type | Focus |
-|---|---|
-| 💻 Software Development Internships | Full-stack, backend, or frontend |
-| 🤖 Generative AI & LLM Internships | RAG, LLM tooling, AI-integrated apps |
-| 🔐 Cybersecurity-Related Software Roles | DevSecOps, secure development |
-| 🎓 Entry-Level Software Engineering | New-grad / early-career positions |
-
-**📬 Recruiters, founders, developers, and collaborators: let's talk.**
-
-<a href="mailto:1rn23cy030.mukundv@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-6a1b9a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mukund-v-b1b742175/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-00d9ff?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-<a href="./Mukund_V_Resume.pdf"><img src="https://img.shields.io/badge/View_Resume-0a0a1a?style=for-the-badge&logo=readdotcv&logoColor=00d9ff"/></a>
-
+  <a href="mailto:eng22mukund@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mukund-v-b1b742175/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="./Mukund_V_Resume.pdf">Resume</a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6a1b9a&height=3&section=header" width="100%"/>
-
-<details>
-<summary><b>💬 A note on how I build</b></summary>
-<br/>
-
-I like software that does one thing reliably rather than many things poorly. Whether it's a Kubernetes security scanner or a music player, I aim for clean architecture, sensible defaults, and interfaces that don't get in the way. Security and AI aren't separate interests for me: I like using AI to make secure development faster, and using security thinking to make AI systems more trustworthy.
-
-</details>
+<br />
 
 <div align="center">
-<em>"Build things that work, then make them work well."</em>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:6a1b9a,100:0a0a1a&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-<div align="center">
-<sub>⚡ Thanks for visiting my profile: feel free to explore my <a href="https://github.com/Haruto69?tab=repositories">repositories</a> or reach out!</sub>
+  <samp>SYSTEM // STANDBY &nbsp;·&nbsp; BUILD // ITERATE &nbsp;·&nbsp; SIGNAL // OPEN</samp>
+  <br /><br />
+  <em>Build things that work. Then make them work well.</em>
 </div>

@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mukund V futuristic engineering profile interface</title>
+  <desc id="desc">An animated cyber HUD identifying Mukund V and his focus on software, security, and intelligent systems.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.52" stop-color="#101722"/>
+      <stop offset="1" stop-color="#130d1d"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#00d9ff" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#00d9ff"/>
+      <stop offset="0.72" stop-color="#b388ff"/>
+      <stop offset="1" stop-color="#6a1b9a" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radarGlow">
+      <stop offset="0" stop-color="#00d9ff" stop-opacity="0.16"/>
+      <stop offset="0.75" stop-color="#6a1b9a" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#30363d" stroke-width="0.7" opacity="0.42"/>
+      <circle cx="0" cy="0" r="1" fill="#00d9ff" opacity="0.22"/>
+    </pattern>
+    <filter id="cyanGlow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#00d9ff" flood-opacity="0.65"/>
+      <feComposite in2="blur" operator="in"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="violetGlow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#b388ff" flood-opacity="0.55"/>
+      <feComposite in2="blur" operator="in"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frameClip"><rect x="12" y="12" width="1176" height="336" rx="16"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .system { fill: #8b949e; font-size: 11px; letter-spacing: 1.8px; }
+    .micro { fill: #6e7681; font-size: 9px; letter-spacing: 1.4px; }
+    .pulse { animation: pulse 3.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .pulse.delay { animation-delay: -1.8s; }
+    .spin { animation: spin 18s linear infinite; transform-origin: 1000px 180px; }
+    .spinReverse { animation: spinReverse 25s linear infinite; transform-origin: 1000px 180px; }
+    .dash { animation: dash 10s linear infinite; }
+    .scan { animation: scan 7s ease-in-out infinite; }
+    .cursor { animation: blink 1.15s steps(2, start) infinite; }
+    .signal { animation: signal 5.5s linear infinite; }
+    .signal.two { animation-delay: -2.7s; }
+    .sweep { animation: sweep 8s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: .4; transform: scale(.92); } 50% { opacity: 1; transform: scale(1.14); } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes spinReverse { to { transform: rotate(-360deg); } }
+    @keyframes dash { to { stroke-dashoffset: -160; } }
+    @keyframes scan { 0%, 100% { transform: translateY(-22px); opacity: 0; } 12%, 88% { opacity: .55; } 50% { transform: translateY(320px); opacity: .18; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes signal { 0% { offset-distance: 0%; opacity: 0; } 12%, 82% { opacity: 1; } 100% { offset-distance: 100%; opacity: 0; } }
+    @keyframes sweep { 0%, 100% { transform: translateX(-260px); opacity: 0; } 35%, 65% { opacity: .32; } 50% { transform: translateX(1160px); } }
+    @media (prefers-reduced-motion: reduce) { .pulse, .spin, .spinReverse, .dash, .scan, .cursor, .signal, .sweep { animation: none !important; } }
+  </style>
+
+  <rect width="1200" height="360" rx="18" fill="url(#panel)"/>
+  <g clip-path="url(#frameClip)">
+    <rect x="12" y="12" width="1176" height="336" fill="url(#grid)" opacity="0.55"/>
+    <circle cx="1000" cy="180" r="245" fill="url(#radarGlow)"/>
+    <path d="M-40 305L250 92 530 280 780 65 1225 275" fill="none" stroke="#6a1b9a" stroke-width="1" opacity="0.2"/>
+    <path class="sweep" d="M0 15L115 15 190 345 75 345Z" fill="url(#edge)" opacity="0"/>
+    <g class="scan">
+      <rect x="12" y="0" width="1176" height="2" fill="url(#edge)" filter="url(#cyanGlow)"/>
+      <rect x="12" y="2" width="1176" height="22" fill="#00d9ff" opacity="0.025"/>
+    </g>
+  </g>
+
+  <rect x="12" y="12" width="1176" height="336" rx="16" fill="none" stroke="#30363d"/>
+  <path d="M12 78V28Q12 12 28 12H184M1016 12h156q16 0 16 16v50M12 282v50q0 16 16 16h156M1016 348h156q16 0 16-16v-50" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M34 48h94l12 12h194M866 60h194l12-12h94M34 314h240l12-12h96M818 302h96l12 12h240" fill="none" stroke="#30363d"/>
+
+  <g class="mono">
+    <text x="38" y="41" class="system" fill="#00d9ff">SYSTEM // ONLINE</text>
+    <circle cx="174" cy="37" r="3" fill="#00d9ff" class="pulse" filter="url(#cyanGlow)"/>
+    <text x="1162" y="41" text-anchor="end" class="system">PROFILE // HARUTO69</text>
+    <text x="38" y="332" class="system">MODE // BUILD</text>
+    <text x="1162" y="332" text-anchor="end" class="system">LOCATION // BENGALURU</text>
+
+    <text x="74" y="118" fill="#8b949e" font-size="12" letter-spacing="4">IDENTITY / ENGINEERING NODE</text>
+    <text x="70" y="202" fill="#f0f6fc" font-size="68" font-weight="700" letter-spacing="10">MUKUND V</text>
+    <rect x="72" y="219" width="558" height="2" fill="url(#edge)"/>
+    <text x="74" y="252" fill="#b388ff" font-size="15" letter-spacing="3.1">SOFTWARE × SECURITY × INTELLIGENCE</text>
+    <text x="74" y="292" fill="#00d9ff" font-size="16">&gt; building secure systems</text>
+    <rect x="329" y="278" width="10" height="18" rx="1" fill="#00d9ff" class="cursor" filter="url(#cyanGlow)"/>
+
+    <g transform="translate(676 93)">
+      <rect width="104" height="58" rx="6" fill="#0d1117" stroke="#30363d"/>
+      <text x="12" y="20" class="micro">UPLINK</text>
+      <text x="12" y="42" fill="#00d9ff" font-size="12" letter-spacing="1.5">STABLE</text>
+      <path d="M72 39h5v-7h5v-11h5v18h5" fill="none" stroke="#b388ff"/>
+    </g>
+    <g transform="translate(676 164)">
+      <rect width="104" height="58" rx="6" fill="#0d1117" stroke="#30363d"/>
+      <text x="12" y="20" class="micro">VECTOR</text>
+      <text x="12" y="42" fill="#b388ff" font-size="12" letter-spacing="1.5">FORWARD</text>
+      <circle cx="84" cy="35" r="6" fill="none" stroke="#00d9ff" class="pulse delay"/>
+    </g>
+    <g transform="translate(676 235)">
+      <rect width="104" height="58" rx="6" fill="#0d1117" stroke="#30363d"/>
+      <text x="12" y="20" class="micro">SIGNAL</text>
+      <text x="12" y="42" fill="#00d9ff" font-size="12" letter-spacing="1.5">LOCKED</text>
+      <path d="M77 42v-5m5 5V31m5 11V25m5 17V19" stroke="#6a1b9a"/>
+    </g>
+  </g>
+
+  <g fill="none" transform="translate(0 0)">
+    <circle cx="1000" cy="180" r="116" stroke="#30363d" stroke-width="1"/>
+    <circle cx="1000" cy="180" r="84" stroke="#30363d" stroke-dasharray="3 9"/>
+    <circle cx="1000" cy="180" r="48" stroke="#30363d"/>
+    <g class="spin">
+      <circle cx="1000" cy="180" r="102" stroke="#00d9ff" stroke-width="2" stroke-dasharray="52 590" filter="url(#cyanGlow)"/>
+      <path d="M1000 66v15M1000 279v15M886 180h15M1099 180h15" stroke="#00d9ff" opacity="0.7"/>
+    </g>
+    <g class="spinReverse">
+      <circle cx="1000" cy="180" r="70" stroke="#b388ff" stroke-width="1.5" stroke-dasharray="22 25 8 90" opacity="0.8"/>
+      <path d="M1000 110l12 8-12 8-12-8Z" stroke="#b388ff" fill="#b388ff" fill-opacity="0.12"/>
+    </g>
+    <path d="M1000 180L1072 122A92 92 0 0 1 1090 205Z" fill="#00d9ff" fill-opacity="0.055" stroke="#00d9ff" stroke-opacity="0.24" class="spin"/>
+    <circle cx="1000" cy="180" r="7" fill="#00d9ff" stroke="#b388ff" class="pulse" filter="url(#cyanGlow)"/>
+    <path d="M790 121H845L884 150M780 193h74l30-13M790 264h55l41-52" stroke="#30363d" stroke-dasharray="8 7" class="dash"/>
+    <circle r="4" fill="#00d9ff" filter="url(#cyanGlow)" class="signal" style="offset-path:path('M790 121H845L884 150')"/>
+    <circle r="4" fill="#b388ff" filter="url(#violetGlow)" class="signal two" style="offset-path:path('M790 264h55l41-52')"/>
+  </g>
+
+  <g fill="#00d9ff">
+    <circle cx="455" cy="82" r="2" class="pulse"/><circle cx="538" cy="310" r="2" class="pulse delay"/>
+    <circle cx="1112" cy="101" r="2" class="pulse"/><circle cx="851" cy="89" r="2" class="pulse delay"/>
+  </g>
+</svg>

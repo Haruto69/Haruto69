@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mukund engineering system orbit</title>
+  <desc id="desc">An animated system diagram connecting Mukund with backend, security, AI, cloud, DevOps, and IoT engineering interests.</desc>
+  <defs>
+    <radialGradient id="core" cx="50%" cy="45%">
+      <stop offset="0" stop-color="#00d9ff" stop-opacity="0.24"/>
+      <stop offset="0.55" stop-color="#6a1b9a" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#00d9ff"/><stop offset="0.5" stop-color="#b388ff"/><stop offset="1" stop-color="#6a1b9a"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#30363d"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b"/><feFlood flood-color="#00d9ff" flood-opacity="0.7"/>
+      <feComposite in2="b" operator="in"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .orbitA { animation: rotateA 24s linear infinite; transform-origin: 450px 150px; }
+    .orbitB { animation: rotateB 31s linear infinite; transform-origin: 450px 150px; }
+    .packet { animation: packet 7s linear infinite; }
+    .packet.p2 { animation-delay: -2.3s; }.packet.p3 { animation-delay: -4.6s; }
+    .pulse { animation: pulse 3.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .dash { animation: dash 12s linear infinite; }
+    @keyframes rotateA { to { transform: rotate(360deg); } }
+    @keyframes rotateB { to { transform: rotate(-360deg); } }
+    @keyframes packet { 0% { offset-distance: 0%; opacity: 0; } 10%, 85% { opacity: 1; } 100% { offset-distance: 100%; opacity: 0; } }
+    @keyframes pulse { 0%,100% { opacity: .45; transform: scale(.93); } 50% { opacity: 1; transform: scale(1.08); } }
+    @keyframes dash { to { stroke-dashoffset: -120; } }
+    @media (prefers-reduced-motion: reduce) { .orbitA,.orbitB,.packet,.pulse,.dash { animation: none !important; } }
+  </style>
+
+  <rect width="900" height="300" rx="14" fill="#0d1117"/>
+  <rect x="8" y="8" width="884" height="284" rx="11" fill="url(#dots)" stroke="#30363d"/>
+  <circle cx="450" cy="150" r="142" fill="url(#core)"/>
+  <g fill="none">
+    <ellipse cx="450" cy="150" rx="330" ry="104" stroke="#30363d" stroke-dasharray="3 8" class="dash"/>
+    <ellipse cx="450" cy="150" rx="245" ry="76" stroke="#30363d"/>
+    <ellipse cx="450" cy="150" rx="158" ry="112" stroke="#30363d" stroke-dasharray="12 9"/>
+    <g class="orbitA"><ellipse cx="450" cy="150" rx="285" ry="90" stroke="url(#line)" stroke-width="1.5" stroke-dasharray="42 510"/></g>
+    <g class="orbitB"><ellipse cx="450" cy="150" rx="190" ry="125" stroke="url(#line)" stroke-width="1.5" stroke-dasharray="28 330"/></g>
+    <path d="M450 150L170 103M450 150L730 103M450 150L126 196M450 150L774 196M450 150L300 253M450 150L600 253" stroke="#30363d" stroke-dasharray="5 7"/>
+  </g>
+
+  <g class="mono" text-anchor="middle">
+    <g class="pulse">
+      <circle cx="450" cy="150" r="54" fill="#0d1117" stroke="#00d9ff" stroke-width="2" filter="url(#glow)"/>
+      <circle cx="450" cy="150" r="45" fill="none" stroke="#6a1b9a" stroke-dasharray="4 5"/>
+    </g>
+    <text x="450" y="147" fill="#f0f6fc" font-size="19" font-weight="700" letter-spacing="3">MUKUND</text>
+    <text x="450" y="168" fill="#8b949e" font-size="8" letter-spacing="2">SYSTEM CORE</text>
+
+    <g transform="translate(170 103)"><rect x="-58" y="-18" width="116" height="36" rx="5" fill="#0d1117" stroke="#00d9ff"/><text y="5" fill="#00d9ff" font-size="12" letter-spacing="2">BACKEND</text></g>
+    <g transform="translate(730 103)"><rect x="-58" y="-18" width="116" height="36" rx="5" fill="#0d1117" stroke="#b388ff"/><text y="5" fill="#b388ff" font-size="12" letter-spacing="2">SECURITY</text></g>
+    <g transform="translate(126 196)"><rect x="-46" y="-18" width="92" height="36" rx="5" fill="#0d1117" stroke="#b388ff"/><text y="5" fill="#b388ff" font-size="12" letter-spacing="2">AI</text></g>
+    <g transform="translate(774 196)"><rect x="-48" y="-18" width="96" height="36" rx="5" fill="#0d1117" stroke="#00d9ff"/><text y="5" fill="#00d9ff" font-size="12" letter-spacing="2">CLOUD</text></g>
+    <g transform="translate(300 253)"><rect x="-52" y="-18" width="104" height="36" rx="5" fill="#0d1117" stroke="#6a1b9a"/><text y="5" fill="#b388ff" font-size="12" letter-spacing="2">DEVOPS</text></g>
+    <g transform="translate(600 253)"><rect x="-46" y="-18" width="92" height="36" rx="5" fill="#0d1117" stroke="#6a1b9a"/><text y="5" fill="#b388ff" font-size="12" letter-spacing="2">IOT</text></g>
+  </g>
+
+  <g fill="#00d9ff" filter="url(#glow)">
+    <circle r="4" class="packet" style="offset-path:path('M450 150L170 103')"/>
+    <circle r="4" class="packet p2" style="offset-path:path('M450 150L774 196')"/>
+    <circle r="4" class="packet p3" style="offset-path:path('M450 150L300 253')"/>
+  </g>
+  <g class="mono" fill="#6e7681" font-size="8" letter-spacing="1.3">
+    <text x="28" y="30">ARCH // INTEREST GRAPH</text>
+    <text x="872" y="30" text-anchor="end">SIGNAL // NOMINAL</text>
+    <text x="28" y="278">NO PROFICIENCY METRICS</text>
+    <text x="872" y="278" text-anchor="end">LINKS // ACTIVE</text>
+  </g>
+</svg>
