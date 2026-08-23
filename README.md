@@ -3,13 +3,10 @@
 
   <br />
 
-  <a href="https://www.linkedin.com/in/mukund-v-b1b742175/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:eng22mukund@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://mukund-os.vercel.app/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="./Mukund_V_Resume.pdf">Resume</a>
+  <a href="https://www.linkedin.com/in/mukund-v-b1b742175/"><img src="./assets/nav-linkedin.svg" width="158" height="42" alt="Open Mukund V's LinkedIn profile" /></a>
+  <a href="mailto:eng22mukund@gmail.com"><img src="./assets/nav-email.svg" width="158" height="42" alt="Email Mukund V" /></a>
+  <a href="https://mukund-os.vercel.app/"><img src="./assets/nav-portfolio.svg" width="158" height="42" alt="Open Mukund V's portfolio" /></a>
+  <a href="./Mukund_V_Resume.pdf"><img src="./assets/nav-resume.svg" width="158" height="42" alt="Open Mukund V's resume" /></a>
 </div>
 
 <br />
@@ -27,18 +24,32 @@
 
 <div align="center">
   <a href="https://github.com/Haruto69">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haruto69&amp;theme=github_dark&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=b388ff&amp;chart_color=6a1b9a&amp;animation=load" alt="Live GitHub statistics for Haruto69" />
+    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api?username=Haruto69&amp;show_icons=true&amp;include_all_commits=true&amp;show=reviews,prs_merged&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live GitHub statistics for Haruto69" />
   </a>
   <a href="https://github.com/Haruto69?tab=repositories">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haruto69&amp;theme=github_dark&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;bg_color=0d1117&amp;border_color=30363d&amp;icon_color=b388ff&amp;chart_color=6a1b9a&amp;animation=load" alt="Top repository languages for Haruto69 based on GitHub data" />
+    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api/top-langs?username=Haruto69&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Top repository languages for Haruto69 based on GitHub data" />
+  </a>
+
+  <h3><samp>LIVE REPOSITORY NODES</samp></h3>
+
+  <a href="https://github.com/Haruto69/VulnVerify">
+    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api/pin?username=Haruto69&amp;repo=VulnVerify&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live repository card for VulnVerify" />
+  </a>
+  <a href="https://github.com/Haruto69/reposcope">
+    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api/pin?username=Haruto69&amp;repo=reposcope&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live repository card for RepoScope" />
   </a>
   <br />
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="98%" src="https://streak-stats.demolab.com?user=Haruto69&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=00D9FF&amp;fire=B388FF&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=00D9FF&amp;sideLabels=B388FF&amp;dates=8B949E&amp;card_width=1000" alt="GitHub contribution streak for Haruto69" />
+  <a href="https://github.com/Haruto69/arclume">
+    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api/pin?username=Haruto69&amp;repo=arclume&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live repository card for Arclume" />
+  </a>
+  <a href="https://github.com/Haruto69/velora-music">
+    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api/pin?username=Haruto69&amp;repo=velora-music&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live repository card for Velora Music" />
   </a>
 </div>
 
-<sub>Telemetry is sourced from GitHub-backed public data. Language cards describe repository composition, not proficiency.</sub>
+<div align="center">
+  <sub>Telemetry is generated from live GitHub-backed data. Language distribution describes repository composition, not proficiency.</sub>
+</div>
 
 ## 03 // Activity Signal
 
@@ -126,11 +137,10 @@ CURRENT_FOCUS
 Open to internships and early-career work across **backend/full-stack engineering**, **GenAI and LLM systems**, and **security-focused software or DevSecOps**.
 
 <div align="center">
-  <a href="mailto:eng22mukund@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mukund-v-b1b742175/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="./Mukund_V_Resume.pdf">Resume</a>
+  <a href="https://www.linkedin.com/in/mukund-v-b1b742175/"><img src="./assets/nav-linkedin.svg" width="158" height="42" alt="Open Mukund V's LinkedIn profile" /></a>
+  <a href="mailto:eng22mukund@gmail.com"><img src="./assets/nav-email.svg" width="158" height="42" alt="Email Mukund V" /></a>
+  <a href="https://mukund-os.vercel.app/"><img src="./assets/nav-portfolio.svg" width="158" height="42" alt="Open Mukund V's portfolio" /></a>
+  <a href="./Mukund_V_Resume.pdf"><img src="./assets/nav-resume.svg" width="158" height="42" alt="Open Mukund V's resume" /></a>
 </div>
 
 <br />
