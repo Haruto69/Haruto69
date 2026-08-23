@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="250" viewBox="0 0 560 250" role="img" aria-labelledby="title desc">
+  <title id="title">Nokia NBUC GenAI Security Pipeline</title>
+  <desc id="desc">Flagship project card for an AI-augmented DevSecOps security pipeline.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11161d"/><stop offset=".62" stop-color="#0d1117"/><stop offset="1" stop-color="#160f20"/></linearGradient>
+    <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#00d9ff"/><stop offset=".58" stop-color="#b388ff"/><stop offset="1" stop-color="#6a1b9a"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#30363d" stroke-width=".6" opacity=".35"/></pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feFlood flood-color="#00d9ff" flood-opacity=".5"/><feComposite in2="b" operator="in"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="clip"><rect x="1" y="1" width="558" height="248" rx="12"/></clipPath>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.scan{animation:scan 7s ease-in-out infinite}.pulse{animation:pulse 3s ease-in-out infinite}.dash{animation:dash 10s linear infinite}
+    @keyframes scan{0%,100%{transform:translateY(-12px);opacity:0}15%,85%{opacity:.35}50%{transform:translateY(244px);opacity:.12}}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}@keyframes dash{to{stroke-dashoffset:-100}}
+    @media(prefers-reduced-motion:reduce){.scan,.pulse,.dash{animation:none}}
+  </style>
+  <rect x="1" y="1" width="558" height="248" rx="12" fill="url(#panel)" stroke="#30363d"/>
+  <g clip-path="url(#clip)"><rect x="1" y="1" width="558" height="248" fill="url(#grid)"/><g class="scan"><rect x="1" width="558" height="2" fill="url(#edge)" filter="url(#glow)"/><rect x="1" y="2" width="558" height="16" fill="#00d9ff" opacity=".025"/></g></g>
+  <path d="M1 42V13Q1 1 13 1h90M457 1h90q12 0 12 12v29M1 208v29q0 12 12 12h90M457 249h90q12 0 12-12v-29" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <g class="mono">
+    <text x="22" y="27" fill="#8b949e" font-size="9" letter-spacing="1.8">FLAGSHIP SYSTEM // 01</text>
+    <text x="538" y="27" text-anchor="end" fill="#00d9ff" font-size="9" letter-spacing="1.5">STATUS // DEPLOYED</text>
+    <circle cx="518" cy="23" r="3" fill="#00d9ff" class="pulse" filter="url(#glow)"/>
+    <text x="22" y="58" fill="#b388ff" font-size="10" letter-spacing="1.8">SECURITY / DEVSECOPS / GENAI</text>
+    <text x="22" y="88" fill="#f0f6fc" font-size="17" font-weight="700" letter-spacing="1.2">NOKIA NBUC // GENAI SECURITY PIPELINE</text>
+    <rect x="22" y="99" width="516" height="1" fill="url(#edge)" opacity=".75"/>
+    <text x="22" y="123" fill="#c9d1d9" font-size="11.5">DevSecOps pipeline for scanning Docker images and Kubernetes</text>
+    <text x="22" y="140" fill="#c9d1d9" font-size="11.5">manifests, generating security findings and AI-assisted remediation</text>
+    <text x="22" y="157" fill="#c9d1d9" font-size="11.5">through CLI and Flask interfaces.</text>
+    <g fill="#0d1117" stroke="#30363d"><rect x="22" y="174" width="60" height="22" rx="4"/><rect x="88" y="174" width="54" height="22" rx="4"/><rect x="148" y="174" width="54" height="22" rx="4"/><rect x="208" y="174" width="82" height="22" rx="4"/><rect x="296" y="174" width="42" height="22" rx="4"/><rect x="344" y="174" width="42" height="22" rx="4"/></g>
+    <g fill="#00d9ff" font-size="8.5" text-anchor="middle"><text x="52" y="188">PYTHON</text><text x="115" y="188">FLASK</text><text x="175" y="188">TRIVY</text><text x="249" y="188">KUBERNETES</text><text x="317" y="188">RAG</text><text x="365" y="188">LLM</text></g>
+    <rect x="22" y="207" width="320" height="31" rx="4" fill="#6a1b9a" opacity=".2" stroke="#b388ff"/>
+    <text x="34" y="220" fill="#b388ff" font-size="8.8" letter-spacing="1">BEST IMPLEMENTED INDUSTRY PROJECT</text>
+    <text x="34" y="232" fill="#b388ff" font-size="8.8" letter-spacing="1">NOKIA UNIVERSITY DAY 2025</text>
+    <text x="538" y="218" text-anchor="end" fill="#6e7681" font-size="8.5">VECTOR // SECURITY</text>
+    <text x="538" y="232" text-anchor="end" fill="#6e7681" font-size="8.5">PIPELINE // AI-AUGMENTED</text>
+  </g>
+  <path d="M410 178h34l14-12h80M410 190h48l10 10h70" fill="none" stroke="#30363d" stroke-dasharray="5 5" class="dash"/>
+</svg>

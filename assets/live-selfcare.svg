@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="34" viewBox="0 0 140 34" role="img" aria-labelledby="title desc">
+  <title id="title">Open Self-Care live demo</title><desc id="desc">Compact cyber HUD control linking to the live Self-Care application.</desc>
+  <defs><linearGradient id="edge" x1="0" x2="1"><stop stop-color="#b388ff"/><stop offset="1" stop-color="#00d9ff"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.p{animation:p 3.1s ease-in-out infinite}@keyframes p{0%,100%{opacity:.35}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.p{animation:none}}</style>
+  <rect x="1" y="1" width="138" height="32" rx="7" fill="#11161d" stroke="url(#edge)"/><path d="M1 10V7q0-6 6-6h14M119 33h14q6 0 6-6v-3" fill="none" stroke="#b388ff"/><circle cx="15" cy="17" r="3" fill="#b388ff" class="p" filter="url(#glow)"/><g class="m"><text x="26" y="13" fill="#6e7681" font-size="6.5" letter-spacing="1">SELF-CARE</text><text x="26" y="25" fill="#c9d1d9" font-size="9.5" font-weight="700" letter-spacing="1.4">OPEN LIVE</text></g><path d="M118 13l5 4-5 4M112 17h11" fill="none" stroke="#00d9ff"/>
+</svg>

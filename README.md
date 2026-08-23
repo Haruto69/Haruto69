@@ -86,33 +86,42 @@ I like software that does one thing reliably: clear architecture, sensible defau
 
 ## 06 // Featured Systems
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Nokia NBUC GenAI Security Pipeline</h3>
-      <p>DevSecOps pipeline for scanning Docker images and Kubernetes manifests, producing SBOMs and AI-assisted vulnerability remediation through CLI and Flask interfaces.</p>
-      <p><code>Python</code> <code>Flask</code> <code>Trivy</code> <code>Kubernetes</code> <code>RAG</code> <code>LLM</code></p>
-      <sub>Best Implemented Industry Project · Nokia University Day 2025</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>DishaRakshak</h3>
-      <p>GPS-independent navigation concept for GPS-denied environments using foot-mounted IMUs, ESP32 communication, dead reckoning, and zero-velocity updates.</p>
-      <p><code>ESP32</code> <code>IMU</code> <code>Embedded C</code> <code>IoT</code> <code>ZUPT</code></p>
-      <sub>Embedded navigation and real-time path visualization</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/project-nokia.svg" width="49%" alt="Nokia NBUC GenAI Security Pipeline flagship project card" />
+  <img src="./assets/project-disharakshak.svg" width="49%" alt="DishaRakshak flagship project card" />
+</div>
 
-| System | Purpose | Stack | Links |
-|---|---|---|---|
-| **Arclume** | Foundation-stage career platform with a modular Spring Boot backend and Next.js frontend; roadmap includes explainable matching and resume analysis. | Next.js · TypeScript · Java · Spring Boot · Docker | [Repository](https://github.com/Haruto69/arclume) |
-| **RepoScope** | Developer analytics platform with repository insights, comparisons, visualizations, and AI-generated technical summaries. | React · TypeScript · Vite · GitHub API · Recharts | [Repository](https://github.com/Haruto69/reposcope) · [Live](https://reposcope-alpha.vercel.app/) |
-| **Self-Care Application** | MERN application for adaptive routines, daily check-ins, task tracking, rewards, and AI-assisted personalization. | MongoDB · Express · React · Node.js | [Repository](https://github.com/Haruto69/Self-care) · [Live](https://solo-leveling-peak.vercel.app/) |
-| **Velora Music** | Responsive music player with playlists, queue controls, synced lyrics, and HTML Audio API playback. | React · TypeScript · Vite · Zustand · Framer Motion | [Repository](https://github.com/Haruto69/velora-music) |
-| **Smart Attendance System** | Desktop face-recognition workflow for student registration, model training, attendance capture, and local records. | Python · OpenCV · SQLite · Pillow · LBPH | [Repository](https://github.com/Haruto69/Smart-attendance) |
+<br />
 
 <div align="center">
-  <a href="https://github.com/Haruto69?tab=repositories">Explore all repositories →</a>
+  <samp>ACTIVE PROJECT NODES // REPOSITORY UPLINKS</samp>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Haruto69/arclume"><img src="./assets/project-arclume.svg" width="48%" alt="Arclume project card" /></a>
+  <a href="https://github.com/Haruto69/reposcope"><img src="./assets/project-reposcope.svg" width="48%" alt="RepoScope project card" /></a>
+  <br />
+  <a href="https://github.com/Haruto69/Self-care"><img src="./assets/project-selfcare.svg" width="48%" alt="Self-Care project card" /></a>
+  <a href="https://github.com/Haruto69/velora-music"><img src="./assets/project-velora.svg" width="48%" alt="Velora Music project card" /></a>
+  <br />
+  <a href="https://github.com/Haruto69/Smart-attendance"><img src="./assets/project-attendance.svg" width="48%" alt="Smart Attendance project card" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <samp>LIVE UPLINKS //</samp>
+  <br /><br />
+  <a href="https://reposcope-alpha.vercel.app/"><img src="./assets/live-reposcope.svg" width="140" height="34" alt="Open the RepoScope live demo" /></a>
+  <a href="https://solo-leveling-peak.vercel.app/"><img src="./assets/live-selfcare.svg" width="140" height="34" alt="Open the Self-Care live demo" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Haruto69?tab=repositories"><img src="./assets/nav-repositories.svg" width="220" height="42" alt="Open all Haruto69 repositories" /></a>
 </div>
 
 ## 07 // Highlights
