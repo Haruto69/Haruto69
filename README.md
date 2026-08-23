@@ -24,31 +24,18 @@
 
 <div align="center">
   <a href="https://github.com/Haruto69">
-    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api?username=Haruto69&amp;show_icons=true&amp;include_all_commits=true&amp;show=reviews,prs_merged&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live GitHub statistics for Haruto69" />
+    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api?username=Haruto69&amp;show_icons=true&amp;include_all_commits=true&amp;show=reviews,prs_merged&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live GitHub statistics for Haruto69" />
   </a>
   <a href="https://github.com/Haruto69?tab=repositories">
     <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api/top-langs?username=Haruto69&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Top repository languages for Haruto69 based on GitHub data" />
   </a>
 
-  <h3><samp>LIVE REPOSITORY NODES</samp></h3>
-
-  <a href="https://github.com/Haruto69/VulnVerify">
-    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api/pin?username=Haruto69&amp;repo=VulnVerify&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live repository card for VulnVerify" />
-  </a>
-  <a href="https://github.com/Haruto69/reposcope">
-    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api/pin?username=Haruto69&amp;repo=reposcope&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live repository card for RepoScope" />
-  </a>
-  <br />
-  <a href="https://github.com/Haruto69/arclume">
-    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api/pin?username=Haruto69&amp;repo=arclume&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live repository card for Arclume" />
-  </a>
-  <a href="https://github.com/Haruto69/velora-music">
-    <img width="49%" src="https://github-readme-stats-eta-flame.vercel.app/api/pin?username=Haruto69&amp;repo=velora-music&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9ff&amp;text_color=c9d1d9&amp;icon_color=b388ff" alt="Live repository card for Velora Music" />
-  </a>
 </div>
 
 <div align="center">
-  <sub>Telemetry is generated from live GitHub-backed data. Language distribution describes repository composition, not proficiency.</sub>
+  <samp>DATA SOURCE // SELF-HOSTED GITHUB TELEMETRY · SIGNAL // LIVE</samp>
+  <br />
+  <sub>Language distribution describes repository composition, not proficiency.</sub>
 </div>
 
 ## 03 // Activity Signal
