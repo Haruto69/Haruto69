@@ -59,17 +59,21 @@ I like software that does one thing reliably: clear architecture, sensible defau
 ## 05 // Technology Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,ts,js,react,nextjs,spring,nodejs,postgres,mongodb,docker,kubernetes,git,linux,aws,gcp&amp;perline=8&amp;theme=dark" alt="Technology icons for Mukund's engineering stack" />
+  <samp>SYSTEM CAPABILITY MATRIX // VERIFIED TOOLCHAINS</samp>
 </div>
 
-| Domain | Verified toolkit |
-|---|---|
-| **Languages** | Java, Python, JavaScript, TypeScript, SQL, HTML, CSS, C, C++ |
-| **Frontend** | React, Next.js, Vite, Tailwind CSS, Framer Motion, Zustand |
-| **Backend** | Spring Boot, Node.js, Express, Flask, REST APIs |
-| **Data** | PostgreSQL, MongoDB Atlas, SQLite |
-| **AI & Security** | LLM APIs, prompt engineering, RAG fundamentals, Trivy, Kubescape, kube-score, Kyverno |
-| **Cloud & Tooling** | Docker, Kubernetes, Git, GitHub, Linux, Postman, AWS, GCP, Azure, Vercel, Render |
+<br />
+
+<div align="center">
+  <img src="./assets/tech-languages.svg" width="49%" alt="Core Languages capability module" />
+  <img src="./assets/tech-frontend.svg" width="49%" alt="Frontend Systems capability module" />
+  <br />
+  <img src="./assets/tech-backend.svg" width="49%" alt="Backend Systems capability module" />
+  <img src="./assets/tech-data.svg" width="49%" alt="Data Layer capability module" />
+  <br />
+  <img src="./assets/tech-ai-security.svg" width="49%" alt="AI and Security capability module" />
+  <img src="./assets/tech-infrastructure.svg" width="49%" alt="Infrastructure capability module" />
+</div>
 
 ## 06 // Featured Systems
 
@@ -113,20 +117,15 @@ I like software that does one thing reliably: clear architecture, sensible defau
 
 ## 07 // Highlights
 
-- Won **Best Implemented Industry Project** at Nokia University Day 2025 for an AI-assisted product-security and vulnerability-remediation pipeline.
-- Qualified for and participated in the **CySecK Capture the Flag finals** at the Indian Institute of Science, Bengaluru.
-- Earned the **Google Cybersecurity Professional Certificate** in 2026.
+<div align="center">
+  <img src="./assets/highlights-panel.svg" width="100%" alt="Verified achievement log for Nokia University Day, CySecK CTF finals, and Google Cybersecurity certification" />
+</div>
 
 ## 08 // Current Signal
 
-```text
-CURRENT_FOCUS
-├── Java + Spring Boot
-├── Backend architecture
-├── Secure software engineering
-├── DevSecOps
-└── LLM / RAG integrations
-```
+<div align="center">
+  <img src="./assets/current-signal.svg" width="100%" alt="Current engineering focus routes across backend, security, DevSecOps, and AI integration" />
+</div>
 
 ## 09 // Open to Opportunities
 
