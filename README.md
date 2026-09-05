@@ -41,9 +41,7 @@
 ## 03 // Activity Signal
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haruto69&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=00d9ff&amp;point=b388ff&amp;area_color=6a1b9a&amp;area=true&amp;hide_border=true&amp;custom_title=ACTIVITY%20SIGNAL%20%2F%2F%20LAST%2031%20DAYS" width="100%" alt="Haruto69 GitHub activity graph for the last 31 days" />
-  </a>
+  <img src="./assets/activity-signal.svg" width="100%" alt="Haruto69 GitHub contribution activity for the last 31 days" />
 </div>
 
 ## 04 // About

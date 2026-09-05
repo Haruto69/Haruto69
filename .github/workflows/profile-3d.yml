@@ -27,17 +27,23 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit updated SVGs
+      - name: Generate 31-day activity signal
+        run: node scripts/generate-activity-signal.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit updated profile visuals
         shell: bash
         run: |
-          git add profile-3d-contrib
+          git add profile-3d-contrib assets/activity-signal.svg
 
           if git diff --cached --quiet; then
-            echo "Contribution SVGs are already current."
+            echo "Generated profile visuals are already current."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: update 3D contribution profile"
+          git commit -m "chore: update generated profile visuals"
           git push
